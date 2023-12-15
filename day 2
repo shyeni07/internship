@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume</title>
+    <style>
+        body {
+           background-color: pink;
+            background-size: cover;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            margin: 20px;
+        }
+        hr{
+            border: 10px solid purple;
+            opacity: 0.6;
+            border-radius: 20px;
+        }
+        img{
+            border: 5px solid black; 
+            padding: 0px;
+            border-radius: 2px;
+        }
+        p{
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        .roundimg{
+                border-radius: 50%;
+        }
+    </style>
+</head>
+<body>
+
+    <img class="roundimg" src="C:\Users\Joshi shyeni\Downloads\WhatsApp Image 2023-12-14 at 6.41.46 PM.jpeg" alt="PHOTO" height="150" width="130">
+    
+    <header>
+        <h1>Joshi shyeni kashyap</h1>
+        <p>Web Developer</p>
+    </header>
+    <hr>
+    
+    <section>
+        <h2>Personal Information</h2>
+        <p>Name: Joshi shyeni</p>
+        <p>Age: 19</p>
+        <p>DOB: 07/07/2004</p>
+        <p>Phone No: 8160738745</p>
+        <p>Address: B-4 anuradha appartment naroda <br> ahmedabad,382330</p>
+    </section>
+    <hr>
+    
+    <section>
+        <h2>Education Background</h2>
+        <p><strong>High School</strong></p>
+        <p>Vidhya Mandir School</p>
+        <p><strong>University Name</strong></p>
+        <p>Silver Oak University</p>
+        <p>Course: B.Tech Computer Engineering</p>
+    </section>
+    <hr>
+    
+    <section>
+        <h2>Skills and Abilities</h2>
+        <p>Programming Languages: Python, Java </p>
+        <p>Web Development: HTML, CSS </p>
+    </section>
+    <hr>
+    
+    <section>
+        <h2>Experience</h2>
+        <ul>
+            <li><strong>SOU junnon 2k22 Anchoring</strong></li>
+            <li><strong>Intern as Web Developer at Batwebs</strong></li>
+        </ul>
+    </section>
+    
+
+</body>
+</html>
